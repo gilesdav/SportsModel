@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SportsTest</string>
+
+    <string-array name="sports_full_txt">
+        <item>Drinking</item>
+        <item>Football</item>
+        <item>Golf</item>
+        <item>Hiking</item>
+        <item>Hockey</item>
+        <item>Kayaking</item>
+        <item>Kite Surfing</item>
+        <item>Roller Skating</item>
+        <item>Rowing</item>
+        <item>Sailing</item>
+        <item>Scuba Diving</item>
+        <item>Skating</item>
+        <item>Snowboarding</item>
+        <item>Swimming</item>
+        <item>Vollyball</item>
+    </string-array>
+
+    <string-array name="sports_one_letter_txt">
+        <item>A</item>
+        <item>B</item>
+        <item>A</item>
+        <item>B</item>
+        <item>A</item>
+        <item>C</item>
+        <item>D</item>
+        <item>C</item>
+        <item>D</item>
+        <item>D</item>
+        <item>A</item>
+        <item>A</item>
+        <item>D</item>
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+
+    <string-array name="sports_season_txt">
+        <item>All</item>
+        <item>Winter</item>
+        <item>Summmer</item>
+        <item>Summer</item>
+        <item>Winter</item>
+        <item>Summer</item>
+        <item>Summer</item>
+        <item>Summer</item>
+        <item>Summer</item>
+        <item>Summer</item>
+        <item>All</item>
+        <item>Winter</item>
+        <item>Winter</item>
+        <item>All</item>
+        <item>Summer</item>
+    </string-array>
+
+
+</resources>
